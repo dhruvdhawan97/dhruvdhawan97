@@ -2,5 +2,5 @@
 - 👀 I’m interested in learning new technologies and creating solutions to existing and new problems.
 - 🌱 I’m currently learning Full Stack Development/ MERN Development.
 - 💞️ I’m looking to collaborate on interesting projects.
-- 📫 How to reach me www.linkedin.com/in/dhruv-dhawan or at my website dhruvdhawan.com :)
+- 📫 How to reach me www.linkedin.com/in/dhruv-dhawan or at my website https://dhruvdhawan.com :)
 
